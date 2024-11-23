@@ -1,5 +1,5 @@
 # Electric Remote-Controlled Boat System
-
+![electrical](/images/electrical.jpg)
 ## Deskripsi
 Sistem ini adalah perancangan kapal yang dikendalikan menggunakan remote control dengan sumber tenaga listrik. Sistem ini memanfaatkan beberapa komponen utama untuk mengontrol pergerakan kapal dan memastikan kelancaran operasinya.
 
@@ -77,7 +77,7 @@ Raharja, L. P. S., Darmawan, A., Kristio, P., & Nugroho, P. (2023). Rancang Bang
 
 
 # Remote-Controlled Fuel Engine Boat System
-
+![fuel engine](/images/fuel.jpg)
 ## Deskripsi
 Sistem ini adalah perancangan dan implementasi dari kapal berbahan bakar mesin yang dikendalikan secara jarak jauh menggunakan remote control. Kapal ini dilengkapi dengan berbagai komponen elektronik dan mekanik yang bekerja secara bersama-sama untuk memastikan kontrol yang baik.
 
